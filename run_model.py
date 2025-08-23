@@ -690,7 +690,7 @@ def main():
             self.history_folder_name = "history"
             self.inference_folder_name = "inference"
             self.chkpt_name = "multiclass_model"
-            self.save_after_epoch = "250"
+            self.save_after_epoch = "100"
     
     args = Args()
 
