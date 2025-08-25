@@ -9,3 +9,4 @@ val_masks/
 checkpoint/
 #inference/
 test_dumps
+*.pt
